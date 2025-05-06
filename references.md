@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+競合するテキストを入力してみるテスト
